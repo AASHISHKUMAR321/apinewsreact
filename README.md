@@ -9,7 +9,7 @@
   <p>1.Top news headlines</p>
   <p>2.News by category</p>
   <p>3.Search bar</p>
-<p>Tech Stack: React | mui | Api</p>
+<p>Tech Stack: React | styled-components | material-ui | Web Api</p>
 
 # Key learnings
 
